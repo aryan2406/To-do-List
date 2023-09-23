@@ -1,0 +1,1 @@
+I have created this to-do list using React, Tailwind CSS etc. It has two componets Navbar and Todo List
